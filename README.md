@@ -1,5 +1,4 @@
-## Name : Nemaleshwar H
-## Reg no : 212223230142
+
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
