@@ -110,12 +110,13 @@ if(NUM_LOOPS>=10)    {
 ```
 ## OUTPUT
 # $ ./sem.o
-![alt text](320766680-69c9e52f-27c2-4be2-8826-1213a3a3617d.png)
+![sem1](https://github.com/Nemaleshh/Linux-IPC-Semaphores/assets/162278192/3f39803a-7214-443b-923c-d6f22833f108)
+
 
 # $ ipcs
 
+![sem2](https://github.com/Nemaleshh/Linux-IPC-Semaphores/assets/162278192/068b078c-1e5b-4332-b14a-8abdb4b66424)
 
-![alt text](320766750-87f758e4-7970-4f84-b565-f756e88b1f9e.png)
 
 
 # RESULT:
