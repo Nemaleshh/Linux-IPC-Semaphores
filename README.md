@@ -110,14 +110,14 @@ if(NUM_LOOPS>=10)    {
 ```
 ## OUTPUT
 # $ ./sem.o
-![sem1](https://github.com/Nemaleshh/Linux-IPC-Semaphores/assets/162278192/3f39803a-7214-443b-923c-d6f22833f108)
+![sem2](https://github.com/Nemaleshh/Linux-IPC-Semaphores/assets/162278192/068b078c-1e5b-4332-b14a-8abdb4b66424)
 
 
 # $ ipcs
 
-![sem2](https://github.com/Nemaleshh/Linux-IPC-Semaphores/assets/162278192/068b078c-1e5b-4332-b14a-8abdb4b66424)
 
 
+![sem1](https://github.com/Nemaleshh/Linux-IPC-Semaphores/assets/162278192/3f39803a-7214-443b-923c-d6f22833f108)
 
 # RESULT:
 The program is executed successfully.
